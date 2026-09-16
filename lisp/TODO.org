@@ -1,0 +1,26 @@
+#+title: Todo
+
+- [-] 建立账本
+  - [ ] 个人消费账本
+  - [ ] 个体户账本
+  - [ ] 国内公司账本
+  - [ ] 国内账户账本
+  - [X] 数字货币账本
+  - [ ] 咖啡店账本
+
+- [ ] Workspace Building
+
+  - [ ] DDDD workspace
+    - [ ] git code
+  - [ ] Doom Develop Env
+    - [ ] git code
+
+    - [ ] rust dev env
+
+      - [ ] workspace
+- [ ] Learning
+  - [ ] Data structure
+
+- [ ] Project
+
+  - [ ] 百贴布网站
